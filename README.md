@@ -30,7 +30,9 @@ Spearheaded the development of advanced AI algorithms for post-blast analysis, e
 
 ## 🌟 Obsessed with Innovation
 
-Currently at [SkylarkLabs.ai](https://skylarklabs.ai/), I'm driven by an unwavering passion for innovation, fully committed to harnessing the power of AI. My mission is to fill every bit of VRAM with possibilities, fueling transformation and pushing the boundaries of Computer Vision. Join me in reshaping industries with #ComputerVision #AI #Startups #RealTimeSolutions 🚀👁️🔍
+Currently at SkylarkLabs.ai, I'm fueled by an unwavering passion for innovation. My dedication to harnessing the transformative power of AI is unwavering, as I embark on a mission to infuse every byte of VRAM with boundless possibilities. My focus transcends the realm of Computer Vision, spanning across our ITMS product line, City Surveillance solutions, and MLops Triton for seamless ML deployment.
+
+In addition, I take great pride in contributing to the Indian Navy's INDEX program, specifically the FOD (Foreign Object Detection) project. Collaborating closely with the Navy, I'm committed to elevating safety and efficiency through cutting-edge AI solutions. Join me as we reshape industries, drive technological advancement, and pioneer #ComputerVision #AI #Startups #RealTimeSolutions 🚀👁️🔍
 
 
 ## 👨🏻‍🏫 # Technical Skills
