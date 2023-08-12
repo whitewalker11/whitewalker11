@@ -15,18 +15,13 @@
 |💻 I'm a Full Stack 🤖 ML Engineer.| 
 |👷‍♂️"Passionate Computer Vision Engineer, currently powering the future at SkylarkLabs.ai, where I've crafted and deployed 5 groundbreaking products. As a tech enthusiast, I've partnered with three dynamic startups—Solar Group, TakeLeap, and TangoEye, delivering industry-deployed projects that blend AI and real-world solutions.|
 |## 🔬 Projects
-
 ### 🚀 Crafting the Future of Retail with AI-Powered Analytics at TangoEye
 Leveraged computer vision and machine learning to analyze customer behavior, foot traffic, and product interactions. Empowered retailers to make data-driven decisions and enhance customer experiences.
-
 ### 🛣️ Revolutionizing Road Management with AI at TakeLeap
 Engineered a comprehensive road management software, SeekRight, utilizing computer vision to optimize traffic flow, enhance safety, and streamline urban planning. Transformed challenges into innovative solutions for smarter cities.
-
 ### 💥 AI-Powered Post-Blast Analysis at Solar Group
 Collaborated with domain experts to develop state-of-the-art AI algorithms for post-blast analysis, enhancing safety and efficiency in high-risk environments. Leveraged advanced computer vision techniques to analyze and interpret complex visual data, contributing to safer operations and informed decision-making.|
-
-
-Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! Join me in reshaping industries through the lens of AI. 🚀👁️🔍 #ComputerVision #AI #Startups #RealTimeSolutions"|
+|Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! Join me in reshaping industries through the lens of AI. 🚀👁️🔍 #ComputerVision #AI #Startups #RealTimeSolutions"|
 
 |🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.
 |📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|
