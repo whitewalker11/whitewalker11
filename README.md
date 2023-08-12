@@ -12,8 +12,8 @@
 
 |<h3>👉🏻👈🏻🥺 Who am I?</h3>|
 |--|
-##|💻 I'm a Full Stack 🤖 ML Engineer.| 
-##|👷‍♂️Passionate about Computer Vision, I'm currently at [SkylarkLabs.ai](https://skylarklabs.ai/), driving innovation by crafting and deploying 5 groundbreaking products. My journey as a tech enthusiast led me to collaborate with three dynamic startups—[Solar Group](https://solargroup.com/), [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software), and [TangoEye](https://tangoeye.ai/)—where I contributed to industry-deployed projects, merging AI with real-world solutions.|
+|💻 I'm a Full Stack 🤖 ML Engineer.| 
+|👷‍♂️Passionate about Computer Vision, I'm currently at [SkylarkLabs.ai](https://skylarklabs.ai/), driving innovation by crafting and deploying 5 groundbreaking products. My journey as a tech enthusiast led me to collaborate with three dynamic startups—[Solar Group](https://solargroup.com/), [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software), and [TangoEye](https://tangoeye.ai/)—where I contributed to industry-deployed projects, merging AI with real-world solutions.|
 
 
 
