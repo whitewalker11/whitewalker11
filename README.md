@@ -11,7 +11,7 @@
 <br>
 
 |<h3>👉🏻👈🏻🥺 Who am I?</h3>|
-|--|--|
+|--|
 |💻 I'm a Full Stack 🤖 ML Engineer.| 
 |👷‍♂️"Passionate Computer Vision Engineer, currently powering the future at SkylarkLabs.ai, where I've crafted and deployed 5 groundbreaking products. As a tech enthusiast, I've partnered with three dynamic startups—Solar Group, TakeLeap, and TangoEye, delivering industry-deployed projects that blend AI and real-world solutions.
 
