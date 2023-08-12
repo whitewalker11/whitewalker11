@@ -5,7 +5,7 @@
 <h1 align="center">Yo, welcome to the Whitewalker11 git world. 
 </h1>
 <p align="center">
-<h3>Hi there <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/>, I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that go through me running that code and seeing the loss converge 📉. </h3>
+<h3>Hi there <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/>, I am DHRUV, and I feel most alive 😃 when I witness the magic ✨ of AI unfold in those crucial moments 🕐, watching as complex algorithms converge to reveal meaningful insights and drive innovation. </h3>
 </p>
 
 <br>
@@ -14,20 +14,24 @@
 |--|
 |💻 I'm a Full Stack 🤖 ML Engineer.| 
 |👷‍♂️"Passionate Computer Vision Engineer, currently powering the future at SkylarkLabs.ai, where I've crafted and deployed 5 groundbreaking products. As a tech enthusiast, I've partnered with three dynamic startups—Solar Group, TakeLeap, and TangoEye, delivering industry-deployed projects that blend AI and real-world solutions.|
-|<h3>PROJECTS?</h3>|
-|--|
- |🚀 Crafting the Future of Retail with AI-Powered Analytics at TangoEye
-      Leveraged computer vision and machine learning to analyze customer behavior, foot traffic, and product interactions. Empowered retailers to make data-driven decisions and enhance customer experiences.|
- |🛣️ Revolutionizing Road Management with AI at TakeLeap
-      Engineered a comprehensive road management software, SeekRight, utilizing computer vision to optimize road assets conditions|
- |💥 AI-Powered Post-Blast Analysis at Solar Group
-    Collaborated with domain experts to develop state-of-the-art AI algorithms for post-blast analysis, enhancing safety and efficiency in high-risk environments. Leveraged advanced computer vision         techniques to analyze and interpret complex visual data, contributing to safer operations and informed decision-making.|
-|Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! Join me in reshaping industries through the lens of AI. 🚀👁️🔍 #ComputerVision #AI #Startups #RealTimeSolutions"|
 
-|🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.
-|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|
-|📰 Working on my very first research publication.|
-|🔠 Currently mastering NLP.|
+Passionate about Computer Vision, I'm currently at [SkylarkLabs.ai](https://skylarklabs.ai/), driving innovation by crafting and deploying 5 groundbreaking products. My journey as a tech enthusiast led me to collaborate with three dynamic startups—[Solar Group](https://solargroup.com/), [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software), and [TangoEye](https://tangoeye.ai/)—where I contributed to industry-deployed projects, merging AI with real-world solutions.
+
+## 🔬 Projects
+
+### 🚀 Crafting the Future of Retail with AI-Powered Analytics at [TangoEye](https://tangoeye.ai/)
+Unveiled the potential of AI in retail by analyzing customer behavior, foot traffic, and product interactions. Empowered retailers with data-driven insights to elevate customer experiences.
+
+### 🛣️ Revolutionizing Road Management with AI at [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)
+Engineered SeekRight, a comprehensive road management software, leveraging computer vision to optimize traffic flow, enhance safety, and reshape urban planning strategies.
+
+### 💥 AI-Powered Post-Blast Analysis at [Solar Group](https://solargroup.com/)
+Spearheaded the development of advanced AI algorithms for post-blast analysis, enhancing safety and efficiency in high-risk environments. Leveraged cutting-edge computer vision techniques to analyze complex visual data, ensuring safer operations.
+
+## 🌟 Obsessed with Innovation
+
+Currently at [SkylarkLabs.ai](https://skylarklabs.ai/), I'm driven by an unwavering passion for innovation, fully committed to harnessing the power of AI. My mission is to fill every bit of VRAM with possibilities, fueling transformation and pushing the boundaries of Computer Vision. Join me in reshaping industries with #ComputerVision #AI #Startups #RealTimeSolutions 🚀👁️🔍
+
 
 ## 👨🏻‍🏫 # Technical Skills
 |<h3>🤖 Machine Learning / Deep Learning</h3>|<h3>🏭 Backend</h3>|<h3>🌄 Frontend</h3>|
