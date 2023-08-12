@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Welcome to BrainBust" src="./images/wave-top.svg/" />
+<img alt="Welcome to BrainBust" src="./images/top.svg/" />
 
 <h1 align="center">Yo, welcome to the Whitewalker11 git world. 
 </h1>
