@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <img alt="Welcome to Whitewalker" src="./images/top3.svg/" />
 
