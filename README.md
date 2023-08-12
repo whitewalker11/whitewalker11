@@ -2,7 +2,7 @@
 
 <img alt="Welcome to BrainBust" src="./images/wave-top.svg/" />
 
-<h1 align="center">Yo, welcome to the 🧠 BrainBust universe. 
+<h1 align="center">Yo, welcome to the Whitewalker11 git world. 
 </h1>
 <p align="center">
 <h3>Hi there <img height="25" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"/>, I am Rishik, and I feel most alive 😃 in those 10 seconds 🕐, that go through me running that code and seeing the loss converge 📉. </h3>
@@ -12,9 +12,17 @@
 
 |<h3>👉🏻👈🏻🥺 Who am I?</h3>|<h3>💗 Things I love</h3>|
 |--|--|
-|💻 I'm a Full Stack 🤖 ML Engineer and 🌎 Web Developer.| 🎶🎶 in background.|
-|👷‍♂️ Working full time with a startup ⭐ [SkylarkLabs.ai](https://skylarklabs.ai/), where I have developed and deployed 5 products to far.| 💯% filling VRAM.
-|🏆 Won Covid ML Hackathon with 1st rank in my college.|🍔 Double cheeseburger.|
+|💻 I'm a Full Stack 🤖 ML Engineer.| 🎶🎶 in background.|
+|👷‍♂️"Passionate Computer Vision Engineer, currently powering the future at SkylarkLabs.ai, where I've crafted and deployed 5 groundbreaking products. As a tech enthusiast, I've partnered with three dynamic startups—Solar Group, TakeLeap, and TangoEye, delivering industry-deployed projects that blend AI and real-world solutions.
+
+🔬 Projects:
+
+    AI-Powered Post-Blast Analysis at Solar Group.
+    Revolutionizing Road Management with AI at TakeLeap.
+    Crafting the Future of Retail with AI-Powered Analytics at TangoEye.
+
+Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! 🚀👁️🔍 | #ComputerVision #AI #Startups #RealTimeSolutions"|
+
 |🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
 |📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|🎹 Playing Piano.|
 |📰 Working on my very first research publication.| 😗 Whistling favourite songs.|
