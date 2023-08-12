@@ -15,11 +15,11 @@
 |💻 I'm a Full Stack 🤖 ML Engineer.| 
 |👷‍♂️"Passionate Computer Vision Engineer, currently powering the future at SkylarkLabs.ai, where I've crafted and deployed 5 groundbreaking products. As a tech enthusiast, I've partnered with three dynamic startups—Solar Group, TakeLeap, and TangoEye, delivering industry-deployed projects that blend AI and real-world solutions.|
 
-|🔬 Projects:
+|🔬 Projects:|
 
-    AI-Powered Post-Blast Analysis at Solar Group.
-    Revolutionizing Road Management with AI at TakeLeap.
-    Crafting the Future of Retail with AI-Powered Analytics at TangoEye.
+AI-Powered Post-Blast Analysis at Solar Group.
+Revolutionizing Road Management with AI at TakeLeap.
+Crafting the Future of Retail with AI-Powered Analytics at TangoEye.
 
 Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! Join me in reshaping industries through the lens of AI. 🚀👁️🔍 #ComputerVision #AI #Startups #RealTimeSolutions"|
 
