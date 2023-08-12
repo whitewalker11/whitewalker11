@@ -10,21 +10,22 @@
 
 <br>
 
-|<h3>👉🏻👈🏻🥺 Who am I?</h3>|<h3>💗 Things I love</h3>|
+|<h3>👉🏻👈🏻🥺 Who am I?</h3>|
 |--|--|
-|💻 I'm a Full Stack 🤖 ML Engineer.| 🎶🎶 in background.|
+|💻 I'm a Full Stack 🤖 ML Engineer.| 
 |👷‍♂️"Passionate Computer Vision Engineer, currently powering the future at SkylarkLabs.ai, where I've crafted and deployed 5 groundbreaking products. As a tech enthusiast, I've partnered with three dynamic startups—Solar Group, TakeLeap, and TangoEye, delivering industry-deployed projects that blend AI and real-world solutions.
+
 🔬 Projects:
-AI-Powered Post-Blast Analysis at Solar Group.
-Revolutionizing Road Management with AI at TakeLeap.
-Crafting the Future of Retail with AI-Powered Analytics at TangoEye.
+   AI-Powered Post-Blast Analysis at Solar Group.
+   Revolutionizing Road Management with AI at TakeLeap.
+   Crafting the Future of Retail with AI-Powered Analytics at TangoEye.
 
-Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! 🚀👁️🔍 | #ComputerVision #AI #Startups #RealTimeSolutions"|
+Currently at SkylarkLabs.ai, I am obsessed with innovation and 100% committed to filling VRAM with possibilities! Join me in reshaping industries through the lens of AI. 🚀👁️🔍 #ComputerVision #AI #Startups #RealTimeSolutions"|
 
-|🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.|🥤 Chilled soda.|
-|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|🎹 Playing Piano.|
-|📰 Working on my very first research publication.| 😗 Whistling favourite songs.|
-|🔠 Currently mastering NLP.|🏡 And home sweet home.|
+|🌐 You can check out my [website](https://brain-bust.web.app/home), 🔨 built with Angular and Django.
+|📺 I'm the creator of [BrainBust](https://www.youtube.com/channel/UCdbcIkMaFdRVYXm76TH6qiw) Youtube channel. I don't like that subscribe button either, so destroy it, kill it, suck its life out 👻.|
+|📰 Working on my very first research publication.|
+|🔠 Currently mastering NLP.|
 
 ## 👨🏻‍🏫 # Technical Skills
 |<h3>🤖 Machine Learning / Deep Learning</h3>|<h3>🏭 Backend</h3>|<h3>🌄 Frontend</h3>|
