@@ -27,7 +27,7 @@ Engineered SeekRight, a comprehensive road management software, leveraging state
 
 Engineered SeekRight, a comprehensive road management software, utilizing cutting-edge computer vision. The Road Analysis application, part of SeekRight, constantly evolves, aiding authorities in effective road and asset maintenance. It decodes complex assets like signs, potholes, cracks, road markings, and even street lights. The fusion of AI and road management redefines safety and functionality, and I'm proud to contribute to this innovative journey at TakeLeap. 🚀🛤️ #AIforRoads #Innovation #UrbanPlanning"
 
-### 💥 AI-Powered Post-Blast Analysis at [Solar Group](https://solargroup.com/)
+### 💥 AI-based Product Inspection for Indian-made Multi-Mode Hand Grenades (MMHG) and  AI-Powered Post-Blast Analysis at [Solar Group](https://solargroup.com/)
 
 🇮🇳 Contributed to the development of Indian-made Multi-Mode Hand Grenades (MMHG), a project executed by a private firm. Led the creation of an end-to-end pipeline for product inspection, overseeing a comprehensive 10-step inspection process. Collaborated with a dedicated team to ensure the quality and reliability of the multi-mode hand grenade, further enhancing safety and effectiveness. 🛠️💥
 
