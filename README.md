@@ -25,8 +25,12 @@ Unveiled the potential of AI in retail by analyzing customer behavior, foot traf
 ### 🛣️ Revolutionizing Road Management with AI at [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)
 Engineered SeekRight, a comprehensive road management software, leveraging computer vision to optimize traffic flow, enhance safety, and reshape urban planning strategies.
 
-### 💥 AI-Powered Post-Blast Analysis at [Solar Group](https://solargroup.com/)
+### 💥 AI-Powered Post-Blast Analysis at Solar Group
+
+🇮🇳 Contributed to the development of Indian-made Multi-Mode Hand Grenades (MMHG), a project executed by a private firm. Led the creation of an end-to-end pipeline for product inspection, overseeing a comprehensive 10-step inspection process. Collaborated with a dedicated team to ensure the quality and reliability of the multi-mode hand grenade, further enhancing safety and effectiveness. 🛠️💥
+
 Spearheaded the development of advanced AI algorithms for post-blast analysis, enhancing safety and efficiency in high-risk environments. Leveraged cutting-edge computer vision techniques to analyze complex visual data, ensuring safer operations.
+
 
 ## 🌟 Obsessed with Innovation
 
