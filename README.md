@@ -25,9 +25,7 @@ Unveiled the potential of AI in retail by analyzing customer behavior, foot traf
 ### 🛣️ Revolutionizing Road Management with AI at [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)
 Engineered SeekRight, a comprehensive road management software, leveraging state-of-the-art computer vision algorithms to optimize traffic flow, enhance safety, and reshape urban planning strategies.
 
-The Road Analysis application software, part of the SeekRight system, is trained with the latest computer vision algorithms and is in a constant state of evolution. This powerful system aids authorities in maintaining roads and their assets effectively. It possesses the capability to decode complex assets such as numbers and letters on signboards, potholes, cracks, road markings, and even street lights – whether they are on or off.
-
-The fusion of AI and road management is redefining how we ensure the safety and functionality of our roadways, and I take immense pride in contributing to this innovative journey at TakeLeap.
+Engineered SeekRight, a comprehensive road management software, utilizing cutting-edge computer vision. The Road Analysis application, part of SeekRight, constantly evolves, aiding authorities in effective road and asset maintenance. It decodes complex assets like signs, potholes, cracks, road markings, and even street lights. The fusion of AI and road management redefines safety and functionality, and I'm proud to contribute to this innovative journey at TakeLeap. 🚀🛤️ #AIforRoads #Innovation #UrbanPlanning"
 
 ### 💥 AI-Powered Post-Blast Analysis at Solar Group
 
