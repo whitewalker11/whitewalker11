@@ -17,7 +17,7 @@
 
 
 
-## 🔬 Projects | Deployed Projects
+### 🔬 Projects 
 
 ### 🚀 Crafting the Future of Retail with AI-Powered Analytics at [TangoEye](https://tangoeye.ai/)
 Unveiled the potential of AI in retail by analyzing customer behavior, foot traffic, and product interactions. Empowered retailers with data-driven insights to elevate customer experiences.
