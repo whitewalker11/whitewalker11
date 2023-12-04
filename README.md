@@ -19,6 +19,12 @@
 
 # 🔬 Projects 
 
+## 🌟 Obsessed with Innovation
+
+Currently at [SkylarkLabs.ai](https://skylarklabs.ai/), I'm fueled by an unwavering passion for innovation. My dedication to harnessing the transformative power of AI is unwavering, as I embark on a mission to infuse every byte of VRAM with boundless possibilities. My focus transcends the realm of Computer Vision, spanning across our ITMS product line, City Surveillance solutions, and MLops Triton for seamless ML deployment.
+
+In addition, I take great pride in contributing to the Indian Navy's INDEX program, specifically the FOD (Foreign Object Detection) project. Collaborating closely with the Navy, I'm committed to elevating safety and efficiency through cutting-edge AI solutions. Join me as we reshape industries, drive technological advancement, and pioneer #ComputerVision #AI #Startups #RealTimeSolutions 🚀👁️🔍
+
 ### 🚀 Crafting the Future of Retail with AI-Powered Analytics at [TangoEye](https://tangoeye.ai/)
 Unveiled the potential of AI in retail by analyzing customer behavior, foot traffic, and product interactions. Empowered retailers with data-driven insights to elevate customer experiences.
 
@@ -34,11 +40,7 @@ Engineered SeekRight, a comprehensive road management software, utilizing cuttin
 Spearheaded the development of advanced AI algorithms for post-blast analysis, enhancing safety and efficiency in high-risk environments. Leveraged cutting-edge computer vision techniques to analyze complex visual data, ensuring safer operations.
 
 
-## 🌟 Obsessed with Innovation
 
-Currently at [SkylarkLabs.ai](https://skylarklabs.ai/), I'm fueled by an unwavering passion for innovation. My dedication to harnessing the transformative power of AI is unwavering, as I embark on a mission to infuse every byte of VRAM with boundless possibilities. My focus transcends the realm of Computer Vision, spanning across our ITMS product line, City Surveillance solutions, and MLops Triton for seamless ML deployment.
-
-In addition, I take great pride in contributing to the Indian Navy's INDEX program, specifically the FOD (Foreign Object Detection) project. Collaborating closely with the Navy, I'm committed to elevating safety and efficiency through cutting-edge AI solutions. Join me as we reshape industries, drive technological advancement, and pioneer #ComputerVision #AI #Startups #RealTimeSolutions 🚀👁️🔍
 
 
 ## 👨🏻‍🏫 # Technical Skills
