@@ -10,10 +10,12 @@
 
 <br>
 
-|<h3>👤 Who am I?</h3>|
-|--|
-|<h3>💻 I'm a Full Stack 🤖 ML CV Engineer.</h3>| 
-|👷‍♂️Passionate about Computer Vision, I'm currently at [SkylarkLabs.ai](https://skylarklabs.ai/), driving innovation by crafting and deploying 5 groundbreaking products. My journey as a tech enthusiast led me to collaborate with three dynamic startups—[Solar Group](https://solargroup.com/), [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software), and [TangoEye](https://tangoeye.ai/)—where I contributed to industry-deployed projects, merging AI with real-world solutions.|
+| <h3>👤 Who am I?</h3>                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <h3>💻 I'm a Full Stack 🤖 ML & Computer Vision Engineer.</h3>                                                                                                                                                                                                                                                                                                                        |
+| 🚀 Currently at **[Sciverse](#)**, a MedTech innovator, I’m building AI-powered **CBC point-of-care diagnostic systems** using cutting-edge **Vision-Based AI** to revolutionize blood analysis at the edge.                                                                                                                                                                          |
+| 🛠️ Previously, I drove innovation at **[SkylarkLabs.ai](https://skylarklabs.ai/)**, developing and deploying **5 impactful CV/AI products** in real-world applications.                                                                                                                                                                                                              |
+| 🤝 I’ve also contributed to industry-deployed AI solutions at three dynamic startups:<br>🔹 [Solar Group](https://solargroup.com/)<br>🔹 [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)<br>🔹 [TangoEye](https://tangoeye.ai/)<br>Delivering computer vision tools that bridge the gap between AI and practical implementation. |
 
 
 
