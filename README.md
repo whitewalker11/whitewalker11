@@ -10,36 +10,59 @@
 
 <br>
 
-| <h3>👤 Who am I?</h3>                                                                                                                                                                                                                                                                                                                                                                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <h3>💻 I'm a Full Stack 🤖 ML & Computer Vision Engineer.</h3>                                                                                                                                                                                                                                                                                                                        |
-| 🚀 Currently at **[Sciverse](https://www.sciverse.co.in/)**, a MedTech innovator, I’m building AI-powered **CBC point-of-care diagnostic systems** using cutting-edge **Vision-Based AI** to revolutionize blood analysis at the edge.                                                                                                                                                                          |
-| 🛠️ Previously, I drove innovation at **[SkylarkLabs.ai](https://skylarklabs.ai/)**, developing and deploying **5 impactful CV/AI products** in real-world applications.                                                                                                                                                                                                              |
-| 🤝 I’ve also contributed to industry-deployed AI solutions at three dynamic startups:<br>🔹 [Solar Group](https://solargroup.com/)<br>🔹 [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)<br>🔹 [TangoEye](https://tangoeye.ai/)<br>Delivering computer vision tools that bridge the gap between AI and practical implementation. |
+| <h3>👤 Who am I?</h3> |
+|------------------------|
+| <h3>💻 I'm a Full Stack 🤖 ML & Computer Vision Engineer.</h3> |
+| 🚀 Currently at **[Sciverse](https://www.sciverse.co.in/)**, a MedTech innovator, I'm leading the development of AI-powered **CBC point-of-care diagnostic systems** and **digital pathology platforms**, using cutting-edge **Vision-Based AI** to revolutionize precision blood analysis at the edge. |
+| 🛠️ Previously at **[SkylarkLabs.ai](https://skylarklabs.ai/)**, I drove innovation by developing and deploying **5 real-world AI/CV products** for smart cities, public safety, and defense. |
+| 🤝 I've also contributed to industry-deployed AI solutions across high-impact organizations:<br>🔹 [Solar Group](https://solargroup.com/)<br>🔹 [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)<br>🔹 [TangoEye](https://tangoeye.ai/)<br>Delivering scalable computer vision systems in defense, urban planning, and retail analytics. |
 
+---
 
-
-# 🔬 Projects 
+# 🔬 Projects
 
 ## 🌟 Obsessed with Innovation
 
-Currently at [SkylarkLabs.ai](https://skylarklabs.ai/), I'm fueled by an unwavering passion for innovation. My dedication to harnessing the transformative power of AI is unwavering, as I embark on a mission to infuse every byte of VRAM with boundless possibilities. My focus transcends the realm of Computer Vision, spanning across our ITMS product line, City Surveillance solutions, and MLops Triton for seamless ML deployment.
+### 🧬 AI for MedTech at [Sciverse](https://www.sciverse.co.in/)
+Leading AI R&D for:
+- 🧪 **CBC Point-of-Care Devices** with AI-based microscopic analysis.
+- 🔬 **Digital Pathology Tools** for high-resolution, vision-powered diagnostics.
+- 🧫 Vision systems for **medical device automation** and real-time analysis in clinical workflows.
 
-In addition, I take great pride in contributing to the Indian Navy's INDEX program, specifically the FOD (Foreign Object Detection) project. Collaborating closely with the Navy, I'm committed to elevating safety and efficiency through cutting-edge AI solutions. Join me as we reshape industries, drive technological advancement, and pioneer #ComputerVision #AI #Startups #RealTimeSolutions 🚀👁️🔍
+---
 
-### 🚀 Crafting the Future of Retail with AI-Powered Analytics at [TangoEye](https://tangoeye.ai/)
-Unveiled the potential of AI in retail by analyzing customer behavior, foot traffic, and product interactions. Empowered retailers with data-driven insights to elevate customer experiences.
+### 🛡️ Defense & Smart Cities at [SkylarkLabs.ai](https://skylarklabs.ai/)
+- 🛰️ Built multiple CV pipelines for **Smart City Surveillance** and **ITMS**.
+- 🧠 Deployed scalable ML inference using **Triton Inference Server**.
+- 🇮🇳 Key contributor to Indian Navy’s **INDEX-FOD (Foreign Object Detection)** program, enhancing safety and situational awareness with real-time vision systems.
 
-### 🛣️ Revolutionizing Road Management with AI at [TakeLeap](https://takeleap.com/services/artificial-intelligence/seekright-road-management-software)
-Engineered SeekRight, a comprehensive road management software, leveraging state-of-the-art computer vision algorithms to optimize traffic flow, enhance safety, and reshape urban planning strategies.
+---
 
-Engineered SeekRight, a comprehensive road management software, utilizing cutting-edge computer vision. The Road Analysis application, part of SeekRight, constantly evolves, aiding authorities in effective road and asset maintenance. It decodes complex assets like signs, potholes, cracks, road markings, and even street lights. The fusion of AI and road management redefines safety and functionality, and I'm proud to contribute to this innovative journey at TakeLeap. 🚀🛤️ #AIforRoads #Innovation #UrbanPlanning"
+### 🛍️ AI-Powered Retail Analytics at [TangoEye](https://tangoeye.ai/)
+Unveiled AI’s potential in retail by analyzing:
+- 👥 Customer movement & behavior
+- 🛒 Product interaction patterns
+- 📈 Conversion insights for in-store optimization
 
-### 💥 AI-based Product Inspection for Indian-made Multi-Mode Hand Grenades (MMHG) and  AI-Powered Post-Blast Analysis at [Solar Group](https://solargroup.com/)
+---
 
-🇮🇳 Contributed to the development of Indian-made Multi-Mode Hand Grenades (MMHG), a project executed by a private firm. Led the creation of an end-to-end pipeline for product inspection, overseeing a comprehensive 10-step inspection process. Collaborated with a dedicated team to ensure the quality and reliability of the multi-mode hand grenade, further enhancing safety and effectiveness. 🛠️💥
+### 🛣️ Smarter Roads with AI at [TakeLeap](https://takeleap.com/)
+Created **SeekRight**, an AI-powered road analysis platform that:
+- 🕳️ Detects potholes, cracks, faded road signs, and markings.
+- 📊 Helps civic bodies monitor and maintain road quality efficiently.
+- 🔁 Continuously evolves using a feedback loop with real-world data.
 
-Spearheaded the development of advanced AI algorithms for post-blast analysis, enhancing safety and efficiency in high-risk environments. Leveraged cutting-edge computer vision techniques to analyze complex visual data, ensuring safer operations.
+---
+
+### 💣 AI for Defense: Inspection & Forensics at [Solar Group](https://solargroup.com/)
+- ✅ Developed a **10-step AI inspection pipeline** for Indian-made **Multi-Mode Hand Grenades (MMHG)**.
+- 🔬 Created advanced **Post-Blast Analysis** algorithms for high-risk environments.
+- 📷 Leveraged computer vision to improve safety and traceability in defense-grade explosives.
+
+---
+
+> 🌐 From pixel to purpose — building vision-driven intelligence across healthcare, defense, cities, and commerce.
+
 
 
 
